@@ -197,6 +197,10 @@
     left: 20px;
   }
 
+  .navbar__header {
+    color: red;
+  }
+
   .navbar__main {
     width: 100%;
     flex-direction: column;
